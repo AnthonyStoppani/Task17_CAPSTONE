@@ -1,0 +1,7 @@
+Task Manager Overview
+	Total Number of Tasks generated:		13
+	Total Number of completed Tasks:		5
+	Total Number of Uncompleted Tasks:		8
+	Total Number of Uncompleted & Overdue Tasks:	1
+	The percentage of tasks that are incomplete:	62%
+	The percentage of tasks that are overdue:	46%

@@ -1,0 +1,14 @@
+admin;Organise Fishing trip;Fishing in the Cormandel for 10 people;2022-12-01;2022-11-22;Yes
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;Yes
+sim;eating;fish;2026-12-12;2023-06-21;No
+sim;Buy furniture;shopping trip in Norwich;2023-06-18;2023-06-13;Yes
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;Yes
+sim;Databases;Completing a Cocoa database;2023-12-12;2023-06-21;No
+admin;Preparing portfolio for job applications;Completing Capstone project;2023-06-18;2023-06-13;Yes
+fred;fishing;visiting the Coromandel;2023-12-12;2023-06-21;No
+sim;Feed birds;Buy food from Bird World;2023-12-15;2023-06-13;No
+sim;Graphics;Learning Illustraor;2023-02-12;2023-06-21;No
+sim;Graphics animation;Learning to use Adobe Flas;2024-01-01;2023-06-21;No
+simone;checking;check program;2023-12-03;2023-06-21;No
+simone;Python Dictionaries;Give a series of lectures on python dictionaries;2023-12-25;2023-06-21;No
+griffin;Eating pigs;reaering pigs to eat;2023-12-12;2023-06-22;No
